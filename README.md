@@ -4,6 +4,8 @@ A microservice-based AI Conversational System that classifies user intents using
 
 ---
 
+Video : https://drive.google.com/file/d/1kWrRgA9EJ7obalbwBlQdgpSRH000k5a3/view?usp=sharing
+
 ## Project Overview
 
 This project demonstrates how conversational AI systems can be built using a microservice architecture. User requests are routed through an API Gateway, which communicates with an ML Service responsible for intent classification using a Hugging Face Transformer model.
