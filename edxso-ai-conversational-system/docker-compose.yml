@@ -6,6 +6,8 @@ services:
     build: ./api_gateway
     ports:
       - "8000:8000"
+    depends_on:
+      - ml_service
 
   ml_service:
     build: ./ml_service
