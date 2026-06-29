@@ -1,0 +1,17 @@
+text,intent
+I forgot my password,password_reset
+Reset my account,password_reset
+Help me change my password,password_reset
+I cannot login,password_reset
+Track my order,order_tracking
+Where is my package,order_tracking
+Check delivery status,order_tracking
+My order is delayed,order_tracking
+Cancel my order,cancel_order
+I want to cancel purchase,cancel_order
+Stop my order,cancel_order
+Cancel this shipment,cancel_order
+I need refund,refund_request
+Refund my money,refund_request
+Return my order,refund_request
+I want reimbursement,refund_request
